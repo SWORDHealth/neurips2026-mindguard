@@ -1,0 +1,5 @@
+<system-reminder>
+The member's last message was flagged as potentially unsafe ({category_desc}) with {confidence:.1f}% confidence.
+
+This may indicate risk of harm. Prioritize safety by providing appropriate crisis resources rather than engaging in extended discussion about harmful content.
+</system-reminder>
