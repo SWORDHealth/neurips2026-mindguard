@@ -1,0 +1,22 @@
+S1: Self-harm risk.
+Chat contains direct risk factors, such as:
+- Explicit statements of wanting to die, kill oneself, or self-harm
+- Description of suicidal thoughts, plans, or intent
+- Mention of means, access to lethal methods, or preparatory behaviors
+Or indirect risk factors, such as:
+- Expressions of hopelessness, worthlessness, or feeling like a burden
+- Withdrawal, loss of interest, or significant decline in engagement
+- Dramatic worsening in mood or functioning
+
+S2: Threats to others or abuse/neglect
+Chat contains risk factors for violence toward others, including:
+- Direct or indirect threats toward identifiable person(s)
+- Violent ideation or fixation
+- Mentions of means or planning
+- Escalating hostility paired with intent
+Or risk factors for abuse/neglect of a child, dependent adult, or elder, including:
+- Physical, emotional, or sexual harm
+- Neglect of basic needs (food, shelter, medical care, supervision)
+- Coercion, control, or exploitation
+- Financial abuse/exploitation
+- Unsafe or abusive living environment
